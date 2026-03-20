@@ -1,7 +1,7 @@
   import * as THREE from "three";
 
   
-  class ZenEsti {
+  export class ZenEsti {
         depth = 1.0;
         constructor() {
                 console.log("ZenEsti.constructor");
